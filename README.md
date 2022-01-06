@@ -27,9 +27,8 @@
   
   ##
   <div>
-    <a href="https://discord.com/channels/@me" target="_blank"><img height="50" width="50" color="white" src="img/logo-discord.png" target="_blank"></a>
-    <a href="https://t.me/OUsername1996" target="_blank"><img height="50" width="50" color="white" src="img/telegram.png" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5561998821225&text=Texto%20aqui" target="_blank"><img height="50" width="50" color="white" src="img/whatsapp.png" target="_blank"></a>
-    <a href="mailto:fabioabreu71@gmail.com" target="_blank"><img height="50" width="50" color="white" src="img/gmail.png" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank"><img height="50" width="50" color="white" src="img/linkedin.png" target="_blank"></a>
+    <a href="https://t.me/OUsername1996" target="_blank"><img height="30" width="30" src="img/telegram.png" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send?phone=5561998821225&text=Texto%20aqui" target="_blank"><img height="30" width="30" src="img/whatsapp.png" target="_blank"></a>
+    <a href="mailto:fabioabreu71@gmail.com" target="_blank"><img height="30" width="30" src="img/gmail.png" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank"><img height="30" width="30" src="img/linkedin.png" target="_blank"></a>
   <div>
