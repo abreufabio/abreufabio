@@ -33,10 +33,4 @@
     <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank"><img height="30" width="30" src="img/linkedin.png" target="_blank"></a>   
   <div> 
    
-  ##
-    
- <div>
-   ![Snake animation](https://github.com/abreufabio/abreufabio/blob/output/github-contribution-grid-snake.svg)
- </div>
- 
-    
+  ##  
