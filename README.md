@@ -27,5 +27,5 @@
   
   ##
   <div>
-    <a href="https://discord.com/channels/@me" target="_blank"><img height="30" width="40" href="img/logo-discord.svg" target="_blank"></a>
+    <a href="https://discord.com/channels/@me" target="_blank"><img height="30" width="40" color="white" href="img/logo-discord.svg" target="_blank"></a>
   <div>
