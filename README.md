@@ -27,5 +27,5 @@
   
   ##
   <div>
-    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://discord.com/channels/@me" target="_blank"><img height="30" width="40" href="img/logo-discord.svg" target="_blank"></a>
   <div>
