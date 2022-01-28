@@ -1,7 +1,7 @@
 ### Olá, bonjour, Hola, ¿cómo estás?  🖖🙂
 ##
-- 🔭 Em home office, eu executo algumas manutenções em computadores e to trabalhando em um portifolio.
-- 🌱 Buscando aprender novas tecnologias que estão bombando no mercado de trabalho, como a VUE js. 
+- 🔭 Em home office, eu executo algumas manutenções em computadores e estou trabalhando em meu portifolio.
+- 🌱 Buscando aprender novas tecnologias que estão bombando no mercado de trabalho, como a VUEjs. 
 - 👯 Eu busco um oportunidade de emprego para que eu possa me desenvolver ainda mais e colaborar com a empresa de forma que a mesma cresça e tenha muito lucro.
 - 💬 Me pergunte sobre tecnologias, games, o que faço no meu tempo livre.
 - 😄 Pronomes ele/dele.
