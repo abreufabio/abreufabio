@@ -1,11 +1,10 @@
 ### Olá, bonjour, Hola, ¿cómo estás?  🖖🙂
 ##
-- 🔭 Em home office, eu executo algumas manutenções em computadores e estou trabalhando em meu portifolio.
-- 🌱 Buscando aprender novas tecnologias que estão bombando no mercado de trabalho, como a VUEjs. 
-- 👯 Eu busco um oportunidade de emprego para que eu possa me desenvolver ainda mais e colaborar com a empresa de forma que a mesma cresça e tenha muito lucro.
+- 😄 Estudante de Analise e desenvolvimento de Sistemas.
+- ⚡ Desenvolvedor FullStack com foco em banco de dados.
+- 🌱 Buscando aprender novas tecnologias, e me manter atual no mercado. 
+- 👯 Eu busco um oportunidade de emprego para que eu possa me desenvolver ainda mais e ser um excelente colaborador.
 - 💬 Me pergunte sobre tecnologias, games, o que faço no meu tempo livre.
-- 😄 Pronomes ele/dele.
-- ⚡ Um fato divertido sobre mim? vejamos, gosto de jogar volêi com meus amigos, eu jogo bem? Essa resposta é meio controversa, pois como já dizia um certo jogador de futebol portugês, "Posso não ser o melhor, mas na minha cabeça, eu sou o melhor!"
 ##
 
 <div align="center">
