@@ -1,4 +1,4 @@
-### Olá, tudo bem? Me conheça um pouco!  🖖🙂
+### Olá, tudo bem? Conheça-me um pouco!  🖖🙂
 ##
 - 😄 Estudante de Analise e desenvolvimento de Sistemas.
 - ⚡ Desenvolvedor FullStack com foco em banco de dados.
