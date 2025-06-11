@@ -1,4 +1,4 @@
-### Olá, bonjour, Hola, ¿cómo estás?  🖖🙂
+### Olá, tudo bem? Me conheça um pouco!  🖖🙂
 ##
 - 😄 Estudante de Analise e desenvolvimento de Sistemas.
 - ⚡ Desenvolvedor FullStack com foco em banco de dados.
