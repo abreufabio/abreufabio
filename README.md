@@ -1,71 +1,51 @@
 <h1 align="center">Olá 👋, eu sou Fábio Abreu</h1>
 
-<h3 align="center">
-  Desenvolvedor Full Stack
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Explorando+novas+tecnologias+🌌;🚀+Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Construindo+o+futuro+linha+por+linha...+🌌" />
 </p>
 
+<!-- Banner Sci-Fi / Tech Dinâmico -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=220&section=header&text=F%C3%A1bio%20Abreu&fontSize=45&animation=twinkling&fontColor=00F7FF&desc=Full%20Stack%20%E2%80%A2%20Python%20%E2%80%A2%20Data&descAlignV=65&descAlign=50" alt="Tech Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=180&section=header&text=FÁBIO%20ABREU&fontSize=60&animation=glitch&fontColor=00F7FF&desc=%5B%20Full%20Stack%20Developer%20%7C%20Data%20Specialist%20%5D&descAlignV=70&descAlign=50" alt="Tech Banner" width="100%">
 </p>
 
 ---
 
-## 🖖 Sobre mim
+## 🌌 Sistema Operacional / Perfil
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Full Stack focado em **Python** e **Banco de Dados**.
-- 🌱 Sempre buscando aprender novas tecnologias e evoluir profissionalmente.
-- 🌌 Apaixonado por tecnologia, automação e inovação.
-- 🎯 Em busca de oportunidades para contribuir em grandes projetos.
-- 🎮 Curto games, tecnologia e desenvolvimento no tempo livre.
+O código abaixo organiza o perfil em duas colunas limpas usando tabelas invisíveis:
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-`Python` • `JavaScript` • `Java` • `PHP` • `HTML5` • `CSS3` • `Bootstrap` • `MySQL` • `Git` • `GitHub` • `VS Code`
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abreufabio&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abreufabio&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5561998821225" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://t.me/OUsername1996" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white">
-  </a>
-  <a href="mailto:fabioabreu71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Coluna 1: Sobre Mim -->
+    <td width="50%" valign="top">
+      <h3>🖖 Diretório: /sobre-mim</h3>
+      <ul>
+        <li>🎓 <b>Formação:</b> Estudante de Análise e Desenvolvimento de Sistemas.</li>
+        <li>💻 <b>Main Core:</b> Full Stack focado em <code>Python</code> e <code>Banco de Dados</code>.</li>
+        <li>🌱 <b>Compilando:</b> Sempre absorvendo novas tecnologias e evolução contínua.</li>
+        <li>🎯 <b>Missão:</b> Prontificar soluções robustas e integrar grandes times.</li>
+        <li>🎮 <b>Side Quests:</b> Games, hardware e cultura tech no tempo livre.</li>
+      </ul>
+    </td>
+    <!-- Coluna 2: Estatísticas Rápidas -->
+    <td width="50%" valign="top">
+      <h3>📊 Telemetria / GitHub Status</h3>
+      <p align="center">
+        <img src="https://streak-stats.demolab.com?user=abreufabio&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F7FF&fire=00F7FF" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>“A tecnologia move o mundo, mas a curiosidade nos leva além das estrelas.”</i> 🌌
-</p>
+## 🚀 Stack Tecnológica
 
-<p align="center">
-  ⭐ Obrigado por visitar meu perfil!
-</p>
+```json
+{
+  "Linguagens": ["Python", "JavaScript", "Java", "PHP"],
+  "Frontend":   ["HTML5", "CSS3", "Bootstrap"],
+  "Database":   ["MySQL"],
+  "DevOps":     ["Git", "GitHub", "VS Code"]
+}
