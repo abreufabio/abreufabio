@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Sempre+aprendendo;Explorando+novas+tecnologias+🌌;🚀+Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Explorando+novas+tecnologias+🌌;🚀+Bem-vindo+do+meu+perfil!" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/abreufabio/abreufabio/raw/main/assets/space_tech_banner.gif" alt="Plano de Fundo de Tecnologia e Espaço" width="100%">
+  <img src="./assets/space_tech_banner.gif" alt="Space Tech" width="100%">
 </p>
 
 ---
@@ -17,90 +17,55 @@
 ## 🖖 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Full Stack focado em Python e Banco de Dados.
+- 💻 Desenvolvedor Full Stack focado em **Python** e **Banco de Dados**.
 - 🌱 Sempre buscando aprender novas tecnologias e evoluir profissionalmente.
-- 🌌 Apaixonado por tecnologia, exploração espacial, desenvolvimento web e inovação.
-- 🎯 Em busca de uma oportunidade para crescer profissionalmente e contribuir com grandes projetos.
+- 🌌 Apaixonado por tecnologia, exploração espacial e inovação.
+- 🎯 Em busca de oportunidades para contribuir em grandes projetos.
 - 🎮 Curto games, tecnologia e desenvolvimento no tempo livre.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
-<div align="center">
-
-<img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="HTML5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-</div>
+`Python` • `JavaScript` • `Java` • `PHP` • `HTML5` • `CSS3` • `Bootstrap` • `MySQL` • `Git` • `GitHub` • `VS Code`
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 📊 Estatísticas
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=abreufabio&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abreufabio&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=abreufabio&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abreufabio&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
 ## 🌐 Contato
 
-<div align="center">
-
-<a href="https://t.me/OUsername1996" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5561998821225" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="mailto:fabioabreu71@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5561998821225" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://t.me/OUsername1996" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:fabioabreu71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 💡 Frase
+<p align="center">
+  <i>“A tecnologia move o mundo, mas a curiosidade nos leva além das estrelas.”</i> 🌌
+</p>
 
-<div align="center">
-
-> “A tecnologia move o mundo, mas a curiosidade nos leva além das estrelas.” — Inspirado em Steve Jobs 🌌
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Obrigado por visitar meu perfil! 🚀
-
-</div>
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
