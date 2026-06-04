@@ -49,15 +49,6 @@
 
 </div>
 
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=abreufabio&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 
