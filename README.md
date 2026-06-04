@@ -10,7 +10,7 @@
 
 ---
 
-## 🌌 Sistema Operacional / Perfil
+## 🌌 Perfil & Conexões
 
 <table>
   <tr>
@@ -20,15 +20,26 @@
         <li>🎓 <b>Formação:</b> Estudante de Análise e Desenvolvimento de Sistemas (ADS).</li>
         <li>💻 <b>Desenvolvimento:</b> Aprendendo Full Stack com foco em <code>Python</code> e <code>Banco de Dados</code>.</li>
         <li>🌱 <b>Compilando:</b> Sempre absorvendo novas tecnologias e buscando evolução contínua.</li>
-        <li>🎯 <b>Missão:</b> Em busca de oportunidades para aprender, crescer e contribuir com grandes projetos.</li>
+        <li>🎯 <b>Missão:</b> Em busca de oportunidades para aprender, crescer e contribuir.</li>
         <li>🎮 <b>Side Quests:</b> Games, hardware e cultura tech no tempo livre.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Telemetria / GitHub Status</h3>
-      <p align="center">
-        <img src="https://streak-stats.demolab.com?user=abreufabio&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F7FF&fire=00F7FF" width="100%" />
-      </p>
+      <h3>🌐 Estabelecer Conexão</h3>
+      <p>Clique em um dos canais abaixo para entrar em contato:</p>
+      <a href="https://www.linkedin.com/in/f%C3%A1bio-abreu-477935164/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140">
+      </a>
+      <a href="https://api.whatsapp.com/send?phone=5561998821225" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140">
+      </a>
+      <br><br>
+      <a href="https://t.me/OUsername1996" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="140">
+      </a>
+      <a href="mailto:fabioabreu71@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="140">
+      </a>
     </td>
   </tr>
 </table>
