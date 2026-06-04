@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Fábio Abreu</h1>
 
 <h3 align="center">
-  Desenvolvedor Full Stack • Python & Banco de Dados • Estudante de ADS
+  Desenvolvedor Full Stack
 </h3>
 
 <p align="center">
