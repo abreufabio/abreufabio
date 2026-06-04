@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=250&section=header&text=F%C3%A1bio%20Abreu&fontSize=50&animation=twinkling&fontColor=00F7FF" alt="Space Tech" width="100%">
+  <img src="https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?q=80&w=1000&auto=format&fit=crop" alt="Space Tech" width="100%" height="250" style="object-fit: cover;">
 </p>
 
 ---
