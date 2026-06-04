@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Explorando+novas+tecnologias+🌌;🚀+Bem-vindo+do+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Python+%26+Banco+de+Dados;Explorando+novas+tecnologias+🌌;🚀+Bem-vindo+ao+meu+perfil!" />
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?q=80&w=1000&auto=format&fit=crop" alt="Space Tech" width="100%" height="250" style="object-fit: cover;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=220&section=header&text=F%C3%A1bio%20Abreu&fontSize=45&animation=twinkling&fontColor=00F7FF&desc=Full%20Stack%20%E2%80%A2%20Python%20%E2%80%A2%20Data&descAlignV=65&descAlign=50" alt="Tech Banner" width="100%">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Full Stack focado em **Python** e **Banco de Dados**.
 - 🌱 Sempre buscando aprender novas tecnologias e evoluir profissionalmente.
-- 🌌 Apaixonado por tecnologia, exploração espacial e inovação.
+- 🌌 Apaixonado por tecnologia, automação e inovação.
 - 🎯 Em busca de oportunidades para contribuir em grandes projetos.
 - 🎮 Curto games, tecnologia e desenvolvimento no tempo livre.
 
